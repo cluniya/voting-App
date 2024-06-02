@@ -1,0 +1,41 @@
+/* src/App.css */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    /* margin-left: 250px; */
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  div {
+    margin: 20px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0;
+  }
+  
+  .my-4 {
+    margin: 2rem 0;
+  }
+  
